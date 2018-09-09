@@ -3,17 +3,14 @@ Theme Name: Wordpress blog theme
 Theme URI: http://jocke.com
 Author: Joachim Persson
 Author URI: http://jocke.com
-Description: Wordpress Theme blog
+Description: Wordpress Theme blog for cms course
 Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: JockeP
 */
-/*
- * Globals
- */
 
- .blog-masthead {
+.blog-masthead {
     background-color: #428bca;
     -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
             box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
@@ -184,13 +181,9 @@ Text Domain: JockeP
      border:#ccc 1px solid;
    }
   
-   .blog-nav a{
-     color:#fff;
-   }
+   
   
-   .blog-nav a:hover{
-     color:#666;
-   }
+   
   
    .post-thumb img{
      width:100%;
